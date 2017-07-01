@@ -28,4 +28,6 @@
     <string name="mensagem_tela_inicial">Seja Bem Vindo!</string>
     <string name="menu_meu_carrinho">Minhas Compras</string>
     <string name="menu_solicitar_garcom">Solicitar Garçom</string>
+    <string name="usuarioInvalido">Senha e/ou Usuário incorretos</string>
+    <string name="login_sucesso_cliente">Logado como Cliente</string>
 </resources>

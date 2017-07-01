@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Restaurante Digital</string>
+    <string name="lista_cadastro_prato">Cadastro de Itens do Menu</string>
+    <string name="botao_cadastrar_novo_item">+ Novo</string>
+    <string name="cadastrar_item_menu">Cadastrar Novo Item no Menu</string>
+    <string name="texto_botao_salvar_cadastro_item">Salvar</string>
+    <string name="nome_do_item">Nome do Item</string>
+    <string name="descricao_do_item">Descrição</string>
+    <string name="preco_do_item">Preço</string>
+    <string name="imagem_item">Imagem do Item</string>
+    <string name="texto_topo_menu">Faça sua escolha!</string>
+    <string name="botao_finalizar_pedido">Finalizar Pedido</string>
+    <string name="texto_valor_acumulado">Valor Total: R$ 00,00</string>
+    <string name="quantidade_adicionada_de_item">00</string>
+    <string name="label_valor">Preço: R$" "</string>
+    <string name="preco_item">00,00</string>
+    <string name="label_descricao_item">Descrição</string>
+    <string name="descricao_teste">Teste da descrição</string>
+    <string name="check_box_login">Entrar Como Cliente</string>
+    <string name="label_usuario">Usuário:</string>
+    <string name="label_senha">Senha:</string>
+    <string name="botao_logar">Entrar</string>
+    <string name="menu_carrinho">Carrinho</string>
+    <string name="menu_funcionarios">Funcionários</string>
+    <string name="menu_cardapio">Cardápio/Menu</string>
+    <string name="menu_cadastro">Cadastro Menu</string>
+    <string name="menu_configuracoes">Configurações</string>
+    <string name="mensagem_tela_inicial">Seja Bem Vindo!</string>
+    <string name="menu_meu_carrinho">Minhas Compras</string>
+    <string name="menu_solicitar_garcom">Solicitar Garçom</string>
+</resources>

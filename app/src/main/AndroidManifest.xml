@@ -9,14 +9,14 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RestauranteDigitalActivity">
+        <activity android:name=".activity.RestauranteDigitalActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DashboardActivity" />
+        <activity android:name=".activity.DashboardActivity" />
     </application>
 
 </manifest>

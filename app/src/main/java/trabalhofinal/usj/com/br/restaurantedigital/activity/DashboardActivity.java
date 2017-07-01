@@ -1,4 +1,4 @@
-package trabalhofinal.usj.com.br.restaurantedigital;
+package trabalhofinal.usj.com.br.restaurantedigital.activity;
 
 import android.app.Activity;
 

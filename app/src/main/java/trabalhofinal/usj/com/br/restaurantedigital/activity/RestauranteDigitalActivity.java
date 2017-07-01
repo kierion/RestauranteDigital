@@ -1,4 +1,4 @@
-package trabalhofinal.usj.com.br.restaurantedigital;
+package trabalhofinal.usj.com.br.restaurantedigital.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -12,6 +12,8 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import trabalhofinal.usj.com.br.restaurantedigital.R;
 
 public class RestauranteDigitalActivity extends Activity {
 

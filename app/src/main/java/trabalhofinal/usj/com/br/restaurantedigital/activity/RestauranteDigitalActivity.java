@@ -45,11 +45,10 @@ public class RestauranteDigitalActivity extends Activity {
                 toString();
         String senhaInformada = this.idSenha.getText().toString();
 
-        if(usuarioInformado.equals("usj")
-                & senhaInformada.equals("123")){
-            //Intent intent = new Intent(this, DashboardActivity.class);
-            //startActivity(intent);
-            setContentView(R.layout.layout_activity_restaurante);
+        if(usuarioInformado.equals("")
+                & senhaInformada.equals("")){
+            Intent intent = new Intent(this, DashboardActivity.class);
+            startActivity(intent);
         }
         else{
             Toast t = Toast.makeText(this,

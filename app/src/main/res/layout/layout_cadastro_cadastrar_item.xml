@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#c3f18e"
@@ -16,6 +17,17 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textStyle="bold" />
 
+    <TextView
+        android:id="@+id/idCategoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/spinner"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        tools:ignore="RtlHardcoded" />
+
     <Spinner
         android:id="@+id/idSpinnerMenuCadastro"
         android:layout_width="match_parent"
@@ -23,6 +35,7 @@
         android:layout_marginEnd="20dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="10dp"
+        android:textColor="@color/colorPrimaryDark"
         android:background="@android:color/background_light" />
 
     <android.support.v4.view.ViewPager
@@ -57,7 +70,7 @@
         android:layout_marginRight="20dp"
         android:layout_marginTop="10dp"
         android:background="@android:color/background_light"
-        android:inputType=""
+        android:inputType="text"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
 
@@ -122,6 +135,7 @@
         android:layout_marginRight="20dp"
         android:background="@android:color/holo_green_dark"
         android:foregroundGravity="center"
+        android:onClick="cadastrar"
         android:gravity="center_vertical|center_horizontal|center"
         android:text="@string/texto_botao_salvar_cadastro_item" />
 

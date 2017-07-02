@@ -30,4 +30,23 @@
     <string name="menu_solicitar_garcom">Solicitar Garçom</string>
     <string name="usuarioInvalido">Senha e/ou Usuário incorretos</string>
     <string name="login_sucesso_cliente">Logado como Cliente</string>
+    <string name="remover_item_sucesso">Item removido com sucesso</string>
+    <string name="nada_cadastrado">Nenhum Registro</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
+    <string name="opcoes">Opções</string>
+    <string name="confirmacao_exclusao">Confirmar Exclusão?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="id">ID</string>
+    <string name="cadastro_sucesso">Cadastrado com Sucesso</string>
+    <string name="cadastro_erro">Falha ao Cadastrar</string>
+    <string name="spinner">Categoria</string>
+    <string-array name="categoria_item">
+        <item>Pratos</item>
+        <item>Porções</item>
+        <item>Lanches</item>
+        <item>Bebidas</item>
+        <item>Doces</item>
+    </string-array>
 </resources>

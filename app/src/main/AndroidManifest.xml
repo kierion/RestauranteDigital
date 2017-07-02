@@ -17,6 +17,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.DashboardActivity" />
+        <activity android:name=".activity.ConfiguracoesActivity" />
+        <activity android:name=".activity.MenuListActivity" />
+        <activity android:name=".activity.CadastroMenuListActivity" />
+        <activity android:name=".activity.CarrinhoActivity" />
+        <activity android:name=".activity.GerenciarFuncionariosActivity" />
+        <activity android:name=".activity.CadastroItemActivity" />
+        <activity android:name=".activity.MenuDetalhadoActivity" />
     </application>
 
 </manifest>

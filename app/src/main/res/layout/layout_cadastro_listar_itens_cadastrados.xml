@@ -42,7 +42,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/descricao_do_item"
+                android:text="@string/nome_do_item"
                 android:textSize="30sp" />
 
             <TextView
@@ -52,7 +52,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/descricao_do_item"
+                android:text="@string/preco_do_item"
                 android:textSize="26sp" />
         </LinearLayout>
 
